@@ -12,7 +12,15 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 
 -->
+
+✒️ Check out my LinkedIn Account: [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/thomas-mohlapo-941700225/))
+
+💻Check out my Medium Account[![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium)]([https://medium.com/@yourhandle](https://medium.com/@mohlapokt))
 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-Me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohlapokt@gmail.com)
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasKarabo&theme=2077"></p>
 
