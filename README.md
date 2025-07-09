@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-Me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohlapokt@gmail.com)
 
-- 🔭 I’m currently working on: [UniHub](https://github.com/ThomasKarabo/UniHub)
-- 🌱 I’m currently learning: [Financial Engineering and Risk Management](https://www.coursera.org/specializations/financialengineering) via Coursera
-- 👯 I’m looking to collaborate on: [Linear Regression from Scratch](https://github.com/ThomasKarabo/linear-regression-from-scratch) but this time maybe an ensemble algorithm or a deep learning alogorithm to complicate things
+- I’m currently working on: [UniHub](https://github.com/ThomasKarabo/UniHub)
+- I’m currently learning: [Financial Engineering and Risk Management](https://www.coursera.org/specializations/financialengineering) via Coursera
+- I’m looking to collaborate on: [Linear Regression from Scratch](https://github.com/ThomasKarabo/linear-regression-from-scratch) but this time maybe an ensemble algorithm or a deep learning alogorithm to complicate things
 
 <p align="center"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ThomasKarabo&theme=2077"></p>
 
