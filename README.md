@@ -1,4 +1,8 @@
-## Hi there 👋
+## About Me
+
+🎓 Data Analyst | 💻 Developer | 📊 Aspiring Quant  
+Passionate about using data, maths, and software to solve real-world problems in finance, healthcare, and beyond.
+
 
 <!--
 **ThomasKarabo/ThomasKarabo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +23,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-Me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohlapokt@gmail.com)
 
-- 🔭 I’m currently working on: https://github.com/ThomasKarabo/UniHub
+- 🔭 I’m currently working on: [UniHub](https://github.com/ThomasKarabo/UniHub)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 
