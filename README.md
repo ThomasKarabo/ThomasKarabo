@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 - 
 -->
 
-✒️ Check out my LinkedIn Account: [![Linkedin Badge](https://img.shields.io/badge/MD's-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-mohlapo-941700225/))
+✒️ Check out my LinkedIn Account: [![Linkedin Badge](https://img.shields.io/badge/MD's-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thomas-mohlapo-941700225/)
 
-💻Check out my Medium Account: [![Medium Badge](https://img.shields.io/badge/MD's-Blog-1ca0f1?style=flat&labelColor=1ca0f1&logo=medium&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://medium.com/@mohlapokt))
+💻Check out my Medium Account: [![Medium Badge](https://img.shields.io/badge/MD's-Blog-1ca0f1?style=flat&labelColor=1ca0f1&logo=medium&logoColor=white&link=https://twitter.com/MaksymRudnyi)](https://medium.com/@mohlapokt)
 
 📫 How to reach me: [![Mail Badge](https://img.shields.io/badge/Email-Me-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mohlapokt@gmail.com)
 
